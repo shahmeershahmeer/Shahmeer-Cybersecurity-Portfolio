@@ -1,6 +1,6 @@
 # Shahmeer-Cybersecurity-Portfolio
 Hello, I am Shahmeer.
-Connect on LinkedIn here: <a href="https://ca.linkedin.com/in/shahmeer-abbasi-869a95265" target="_blank">LinkedIn Profile</a>
+My LinkedIn: <a href="https://ca.linkedin.com/in/shahmeer-abbasi-869a95265" target="_blank">LinkedIn Profile</a>
 
  
 ## Professional Statement
