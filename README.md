@@ -4,7 +4,7 @@ My LinkedIn: <a href="https://ca.linkedin.com/in/shahmeer-abbasi-869a95265" targ
 
  
 ## Professional Statement
-I am Shahmeer Abbasi. I am a third year Computer Science student at the University of New Brunswick with a specialization in Cybersecurity. I have experience working both consultancy based and technical roles as an intern at companies like PwC and a bank. I am Certified in Cybersecurity (CC) through The International Information System Security Certification Consortium. 
+I am Shahmeer Abbasi. I am a third year Computer Science student at the University of New Brunswick with a specialization in Cybersecurity with 4.1/4.3 GPA. I have experience working both consultancy based and technical roles as an intern at companies like PwC and a bank. I am Certified in Cybersecurity (CC) through The International Information System Security Certification Consortium. 
 
 Recently, I completed the Google Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, problem-solving skills, and communication skills to address problems and emerging threats. 
 
