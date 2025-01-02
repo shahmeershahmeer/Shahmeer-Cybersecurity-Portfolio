@@ -34,6 +34,7 @@ At this point in time I am interested in the following roles:
 | [5](https://github.com/shahmeershahmeer/Shahmeer-Cybersecurity-Portfolio/tree/main/5%20-%20Detection%20and%20Response) - Detection & Response | `Incident Lifecycle`, `Incident Journal` | 
 | [6](https://github.com/shahmeershahmeer/Shahmeer-Cybersecurity-Portfolio/tree/main/6%20-%20IDS%20and%20SIEM%20Systems) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Splunk` |
 | [7](https://github.com/shahmeershahmeer/Shahmeer-Cybersecurity-Portfolio/tree/main/7%20-%20Packet%20Sniffing%20with%20NPA) - Tcpdump & Wireshark | `Packet Analyzer` | 
+| [8](https://github.com/shahmeershahmeer/Shahmeer-Cybersecurity-Portfolio/tree/main/8%20-%20Labs%20and%20Projects) - Extra Work | `Labs and Projects` |
 
 ### Tools 
 Tools that I have experience with: 
