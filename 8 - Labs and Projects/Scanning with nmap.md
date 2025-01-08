@@ -34,6 +34,8 @@ By using Nmap, system administrators can strengthen security, and ethical hacker
 ```bash
 nmap scanme.nmap.org
 ```
+<img width="625" alt="Screenshot 2025-01-06 at 1 40 49 PM" src="https://github.com/user-attachments/assets/2ad7f313-0a60-4064-96b2-2242f30e61ad" />
+
 3. Observe the results:
    * Open ports and associated services will be displayed
    * This is a basic scan limited to the top 1000 ports for essential information
@@ -50,15 +52,9 @@ In this step, you will retrieve more detailed information about the target, such
 #### Steps:
 1. Attempt the following command:
 ```bash
-nmap -v -sT -sV -O scanme.nmap.org
-```
-
-2. If you encounter a permission error, use `sudo`:
-```bash
 sudo nmap -v -sT -sV -O scanme.nmap.org
 ```
-
-3. Enter the password when prompted (`kali`)
+<img width="808" alt="Screenshot 2025-01-06 at 2 46 36 PM" src="https://github.com/user-attachments/assets/a461ea6e-c002-4af3-86a2-c3b76669c5d4" />
 
 #### Analysis:
 * The output will include:
@@ -72,6 +68,7 @@ sudo nmap -v -sT -sV -O scanme.nmap.org
 ```bash
 sudo nmap -A scanme.nmap.org
 ```
+<img width="787" alt="Screenshot 2025-01-06 at 2 46 54 PM" src="https://github.com/user-attachments/assets/77d66cb8-1c7d-4577-bb99-81fd45dd4b67" />
 
 ### Task 3: Experimenting with Nmap Flags
 1. Explore different scan types and their outputs using flags
